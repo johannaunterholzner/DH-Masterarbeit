@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>            
+            <titleStmt>                
+                <title>Textzeugen "Newtonringe"</title>
+                <editor>J. Unterholzner</editor>
+            </titleStmt>
+            <publicationStmt>               
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>                
+                <bibl> BOX W129/480 <title> Newtonringe | Gabelsberger Universum </title>
+                    <author>Friederike Mayröcker </author>
+                    <date when="1981-03-03">, 03.03.1981</date>
+                    <biblScope unit="version">Endversion auf Seite 362f in: Friederike Mayröcker.
+                    Gesammelte Gedichte. Herausgegeben von Marcel Beyer, 2004.</biblScope>
+                    <orgName>Literaturarchiv der Österreichischen Nationalbibliothek</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <listChange>
+                    <change resp="#gray_pen">Revisionen mit einem grauen Stift</change>
+                    <change resp="#blue_pen">Revisionen mit einem blauen Stift</change>
+                </listChange>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem" xml:id="nwtrg">
+                <div type="witness" xml:id="nr.1">
+                    <lg>
+                        <l>"_/PUNCT Universum_/NOUN "_/PUNCT 
+                            <add change="#gray_pen">die_/DET Gesetze_/NOUN des_/DET 
+                                Gebens_/NOUN und_/CCONJ Nehmens_/NOUN 
+                                sind_/AUX aufgehoben_/VERB</add>
+                            das_/DET Federbett_/NOUN /_/PUNCT -barett_/NOUN 
+                            ist_/AUX überschwemmt_/VERB 
+                            so_/ADV porenhaft_/ADV 
+                            der_/DET Schellenbaum_/NOUN /_/PUNCT 
+                            (_/PUNCT "_/PUNCT .._/PUNCT auf_/ADP der_/DET Treppe_/NOUN 
+                            geschlafen_/VERB mit_/ADP dir_/PRON <del change="#gray_pen">,_/PUNCT</del> es_/PRON 
+                            hat_/AUX mir_/PRON geträumt_/VERB .._/PUNCT "_/PUNCT )_/PUNCT 
+                            <add change="#gray_pen">Steine_/NOUN gesammelt_/VERB +_/PUNCT weggeworfen_/VERB</add> 
+                            Blendung_/NOUN Verblendung_/NOUN am_/ADP 
+                            Zungengrund_/NOUN 
+                            sich_/PRON umarmen_/VERB /_/PUNCT 
+                            getrennt_/VERB sein_/AUX 
+                            (_/PUNCT "_/PUNCT was_/PRON hast_/AUX du_/PRON 
+                            gerade_/ADV gedacht_/VERB ?_/PUNCT .._/PUNCT "_/PUNCT )_/PUNCT
+                            Wimpel_/NOUN /_/PUNCT 
+                            <choice>
+                                <orig>
+                                    Lamelle_/NOUN ist_/AUX abgegangen_/VERB
+                                </orig> 
+                                <reg change="#gray_pen">
+                                    Lamellenheft_/NOUN abgesprungen_/VERB 
+                                </reg>
+                                <reg>
+                                    Ofenlamelle_/NOUN abgesprungen_/VERB <!-- Entscheidung?! -->
+                                </reg>
+                            </choice> 
+                            <del change="#gray_pen">die_/DET Gesetze_/NOUN des_/DET 
+                            Gebens_/NOUN und_/CCONJ Nehmens_/NOUN 
+                            sind_/AUX aufgehoben_/VERB</del> 
+                            vom_/ADP Ende_/NOUN zum_/ADP Anfang_/NOUN ,_/PUNCT eine_/DET 
+                            Gabelsberger_/ADJ 
+                            <choice>
+                                <orig>
+                                    Schrift_/NOUN ?_/PUNCT
+                                </orig>
+                                <reg change="#gray_pen">Handschrift_/NOUN ?_/PUNCT</reg>
+                                <reg>Beschriftung_/NOUN</reg></choice> <!-- Entscheidung?! -->
+                            Jagdhund_/NOUN und_/CCONJ Terminal_/NOUN 
+                            Mexiko_/PROPN City_/PROPN 
+                            es_/PRON ballerte_/VERB von_/ADP 
+                            <choice>
+                                <orig>
+                                    den_/DET kahlen_/ADJ Bäumen_/NOUN
+                                </orig>
+                                <reg change="#gray_pen">der_/DET kahlen_/ADJ Decke_/NOUN</reg>
+                            </choice>
+                            ,_/PUNCT Grübchen_/NOUN 
+                            und_/CCONJ Fußkraft_/NOUN so_/ADV 
+                            schelmisch_/ADV /_/PUNCT Wipfel_/NOUN des_/DET 
+                            <choice><orig>Baumes_/NOUN</orig> <reg change="#gray_pen">Baums_/NOUN</reg></choice> 
+                            singender_/ADJ Brauenbogen_/NOUN ,_/PUNCT Schamanenlied_/NOUN .._/PUNCT</l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.2">
+                    <lg>
+                        <l>
+                            <add change="#gray_pen">Gabelsberger_/ADJ Universum_/NOUN</add> <!-- Entscheidung?! -->
+                            "_/PUNCT Universum_/NOUN "_/PUNCT <add change="#gray_pen">+_/CCONJ Gabelsberg_/PROPN</add>
+                            <choice>
+                                <orig>
+                                    die_/DET Gesetze_/NOUN des_/DET Gebens_/NOUN und_/CCONJ Nehmnes_/NOUN 
+                                    sind_/AUX aufgehoben_/VERB 
+                                    das_/DET Federbett_/NOUN /_/PUNCT -barett_/NOUN 
+                                    ist_/AUX überschwemmt_/VERB 
+                                    so_/ADV porenhaft_/ADV der_/DET Schellenbaum_/NOUN ,_/PUNCT 
+                                    die_/DET Steine_/NOUN gesammelt_/VERB und_/CCONJ weggeworfen_/VERB 
+                                    (_/PUNCT "_/PUNCT .._/PUNCT auf_/ADP der_/DET Treppe_/NOUN geschlafen_/VERB mit_/ADP dir_/PRON .._/PUNCT es_/PRON hat_/AUX mir_/PRON 
+                                    geträumt_/VERB .._/PUNCT "_/PUNCT )_/PUNCT
+                                </orig>
+                                <reg change="#gray_pen">
+                                    das_/DET Federbett_/NOUN /_/PUNCT -barett_/NOUN 
+                                    ist_/AUX überschwemmt_/VERB
+                                    so_/ADV porenhaft_/ADV der_/DET Schellenbaum_/NOUN ,_/PUNCT
+                                    (_/PUNCT "_/PUNCT .._/PUNCT auf_/ADP der_/DET Treppe_/NOUN geschlafen_/VERB mit_/ADP dir_/PRON .._/PUNCT es_/PRON hat_/AUX mir_/PRON 
+                                    geträumt_/VERB .._/PUNCT "_/PUNCT )_/PUNCT  
+                                    die_/DET Gesetze_/NOUN des_/DET Gebens_/NOUN und_/CCONJ Nehmnes_/NOUN 
+                                    aufgehoben_/VERB
+                                </reg>
+                            </choice>
+                            Blendung_/NOUN Verblendung_/NOUN am_/ADP Zungengrund_/NOUN 
+                            sich_/PRON umarmen_/VERB /_/PUNCT getrennt_/VERB sein_/AUX 
+                            (_/PUNCT "_/PUNCT .._/PUNCT was_/PRON hast_/AUX du_/PRON gerade_/ADV gedacht_/VERB ?_/PUNCT "_/PUNCT 
+                            vom_/ADP Ende_/NOUN zum_/ADP Anfang_/NOUN ,_/PUNCT 
+                            <choice>
+                                <orig>
+                                    Wimpel_/NOUN Ofenlamelle_/NOUN abgesprungen_/VERB
+                                </orig> 
+                                <reg change="#gray_pen">die_/DET Ofenlamelle_/NOUN zersprungen_/VERB die_/DET kahlen_/ADJ Wipfel_/NOUN</reg> 
+                            </choice> 
+                            <del change="#gray_pen">ist_/AUX es_/PRON eine_/DET Gabelsberger_/ADJ 
+                            Beschriftung_/NOUN ?_/PUNCT</del> 
+                            Grübchen_/NOUN und_/CCONJ Fußkraft_/NOUN so_/ADV 
+                            schelmisch_/ADV /_/PUNCT <del change="#gray_pen">Wipfel_/NOUN</del> <add change="#gray_pen">Wimpel_/NOUN</add> des_/DET 
+                            <choice><orig>Baums_/NOUN</orig> <reg>Baumes_/NOUN</reg></choice> ,_/PUNCT singender_/ADJ 
+                            Brauenbogen_/NOUN Schamanenlied_/NOUN -_/PUNCT 
+                            Jagdhund_/NOUN und_/CCONJ Terminal_/PROPN 
+                            Mexico_/PROPN City_/PROPN /_/PUNCT <add change="#gray_pen">:_/PUNCT</add> es_/PRON ballerte_/VERB dann_/ADV 
+                            von_/ADP der_/DET Decke_/NOUN des_/DET Zimmers_/NOUN <add change="#gray_pen">mächtig_/ADV auf_/ADP uns_/PRON herab_/ADV</add>
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.3">
+                    <lg>
+                        <l>
+                            Gabelsberger_/ADJ Universum_/NOUN 
+                            <choice>
+                                <orig>
+                                    das_/DET Federbett_/NOUN /_/PUNCT -barett_/NOUN 
+                                    ist_/AUX überschwemmt_/VERB 
+                                    so_/ADV porenhaft_/ADV der_/DET Schellenbaum_/NOUN
+                                </orig>
+                                <reg change="#gray_pen">
+                                    so_/ADV porenhaft_/ADV der_/DET Schellenbaum_/NOUN
+                                    das_/DET Federbett_/NOUN /_/PUNCT -barett_/NOUN 
+                                    ist_/AUX überschwemmt_/VERB
+                                </reg>
+                            </choice>
+                            auf_/ADP der_/DET Treppe_/NOUN geschlafen_/VERB mit_/ADP dir_/PRON 
+                            es_/PRON hat_/AUX mir_/PRON geträumt_/VERB 
+                            Blendung_/NOUN Verblendung_/NOUN am_/ADP 
+                            Zungengrund_/NOUN ,_/PUNCT sich_/PRON umarmen_/VERB /_/PUNCT <del change="#gray_pen">getrennt_/VERB sein_/AUX</del> 
+                            <add change="#gray_pen">sich_/PRON trennen_/VERB</add> 
+                            -_/PUNCT was_/PRON hast_/AUX du_/PRON gerade_/ADV gedacht_/VERB ?_/PUNCT 
+                            vom_/ADP Ende_/NOUN zum_/ADP Anfang_/NOUN /_/PUNCT die_/DET <choice><orig>Ofenlamelle_/NOUN</orig> <reg change="#gray_pen">Ofenlamellen_/NOUN</reg></choice> 
+                            die_/DET kahlen_/ADJ Wipfel_/NOUN <del change="#gray_pen">zersprungen_/VERB</del> 
+                            <add change="#gray_pen">Steine_/NOUN gesammelt_/VERB +_/PUNCT weggeworfen_/VERB</add> 
+                            Grübchen_/NOUN und_/CCONJ Fußkraft_/NOUN schelmisch_/ADV Wimpel_/NOUN 
+                            des_/DET Baumes_/NOUN ,_/PUNCT singender_/ADJ Brauenbogen_/NOUN 
+                            Schamanenlied_/NOUN 
+                            Jadghund_/PROPN und_/CCONJ Terminal_/PROPN 
+                            Mexico_/PROPN City_/PROPN es_/PRON ballerte_/VERB dann_/ADV 
+                            von_/ADP der_/DET Zimmerdecke_/NOUN 
+                            mächtig_/ADV auf_/ADP uns_/PRON herab_/ADV
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.4">
+                    <lg>
+                        <l>
+                            Gabelsberger_/ADJ Universum_/NOUN 
+                            so_/ADV porenhaft_/ADV der_/DET Schellenbaum_/NOUN 
+                            das_/DET Federbett_/NOUN /_/PUNCT -barett_/NOUN 
+                            ist_/AUX überschwemmt_/ADV 
+                            auf_/ADP der_/DET Treppe_/NOUN 
+                            geschlafen_/VERB mit_/ADP dir_/PRON es_/PRON hat_/AUX mir_/PRON geträumt_/VERB 
+                            Blendung_/NOUN 
+                            Verblendung_/NOUN am_/ADP Zungengrund_/NOUN 
+                            sich_/PRON umarmen_/VERB /_/PUNCT sich_/PRON trennen_/VERB 
+                            was_/PRON hast_/AUX du_/PRON gerade_/ADV gedacht_/VERB ?_/PUNCT 
+                            vom_/ADP Ende_/NOUN zum_/ADP Anfang_/NOUN /_/PUNCT die_/DET Ofenlamellen_/NOUN 
+                            die_/DET kahlen_/ADJ Wipfel_/NOUN -_/NOUN 
+                            Steine_/NOUN gesammelt_/VERB und_/CCONJ weggeworfen_/VERB 
+                            Grübchen_/NOUN und_/CCONJ Fußkraft_/NOUN 
+                            schelmisch_/ADV 
+                            Wimpel_/NOUN 
+                            des_/DET Baumes_/NOUN singender_/ADJ Brauenbogen_/NOUN 
+                            Schamanenlied_/NOUN 
+                            Jagdhund_/NOUN und_/CCONJ Terminal_/PROPN 
+                            Mexico_/PROPN City_/PROPN es_/PRON ballerte_/VERB dann_/ADV 
+                            von_/ADP der_/DET Zimmerdecke_/NOUN mächtig_/ADV auf_/ADP uns_/PRON herab_/ADV
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.5">
+                    <lg>
+                        <l>Gabelsberger_/ADJ Universum_/NOUN 
+                            so_/ADV porenhaft_/ADV der_/DET Schellenbaum_/NOUN 
+                            das_/DET Federbett_/NOUN /_/PUNCT -barett_/NOUN 
+                            ist_/AUX überschwemmt_/VERB <add change="#gray_pen">:_/PUNCT</add> 
+                            auf_/ADP der_/DET Treppe_/NOUN geschlafen_/VERB mit_/ADP dir_/PRON 
+                            es_/PRON hat_/AUX mir_/PRON geträumt_/VERB 
+                            Blendung_/NOUN Verblendung_/NOUN 
+                            am_/ADP Zungengrund_/NOUN 
+                            sich_/PRON umarmen_/VERB /_/PUNCT sich_/PRON trennen_/VERB 
+                            was_/PRON hast_/AUX du_/PRON gerade_/ADV gedacht_/VERB ?_/PUNCT 
+                            vom_/ADP Ende_/NOUN zum_/ADP Anfang_/NOUN -_/PUNCT 
+                            <add change="#gray_pen">eine_/DET Gabelsberger_/ADJ Beschriftung_/NOUN ?_/PUNCT</add> 
+                            die_/DET zersprungene_/ADJ Ofenlamelle_/NOUN /_/PUNCT Steine_/NOUN 
+                            gesammelt_/VERB und_/CCONJ weggeworfen_/VERB 
+                            Grübchen_/NOUN und_/CCONJ Fußkraft_/NOUN 
+                            schelmisch_/ADV Wimpel_/NOUN 
+                            des_/DET Baumes_/NOUN singender_/ADJ Brauenbogen_/NOUN 
+                            Schamanenlied_/NOUN 
+                            Jagdhund_/NOUN und_/CCONJ Terminal_/NOUN 
+                            Mexico_/PROPN City_/PROPN es_/PRON ballerte_/VERB 
+                            dann_/ADV von_/ADP der_/DET Zimmerdecke_/NOUN mächtig_/ADV 
+                            auf_/ADP uns_/PRON herab_/ADV</l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.6">
+                    <lg>
+                        <l>
+                            <choice><orig>Universum_/NOUN</orig> <reg change="#blue_pen">Newtonringe_/NOUN</reg></choice> 
+                            so_/ADV porenhaft_/ADV der_/DET Schellenbaum_/NOUN <add change="#blue_pen">die_/DET Pollution_/NOUN</add> 
+                            das_/DET Federbett_/NOUN /_/PUNCT -barett_/NOUN 
+                            ist_/AUX überschwemmt_/VERB :_/PUNCT 
+                            <choice>
+                                <orig>
+                                    auf_/ADP der_/DET Treppe_/NOUN geschlafen_/VERB mit_/ADP dir_/PRON
+                                    es_/PRON hat_/AUX mir_/PRON geträumt_/VERB -_/PUNCT
+                                </orig>
+                                <reg>
+                                    ich_/PRON habe_/AUX geträumt_/VERB 
+                                    ich_/PRON habe_/AUX mit_/ADP dir_/PRON auf_/ADP der_/DET 
+                                    Treppe_/NOUN geschlafen_/VERB
+                                </reg>
+                        </choice> 
+                             
+                            Blendung_/NOUN Verblendung_/NOUN 
+                            am_/ADP Zungengrund_/NOUN 
+                            sich_/PRON umarmen_/VERB /_/PUNCT sich_/PRON trennen_/VERB 
+                            was_/PRON hast_/AUX du_/PRON gerade_/ADV <add change="#blue_pen">eben_/ADV</add> gedacht_/VERB ?_/PUNCT -_/PUNCT 
+                            vom_/ADP Ende_/NOUN zum_/ADP Anfang_/NOUN -_/PUNCT 
+                            <choice>
+                                <orig>
+                                    eine_/DET Gabelsberger_/ADJ 
+                                    Beschriftung_/NOUN eine_/DET zersprungene_/ADJ 
+                                    Ofenlamelle_/NOUN
+                                </orig>
+                                <reg change="#blue_pen">
+                                    eine_/DET zersprungene_/ADJ 
+                                    Ofenlamelle_/NOUN ?_/PUNCT
+                                    Gabelsberger_/ADJ Notiz_/NOUN  ?_/PUNCT
+                                </reg>
+                            </choice> 
+                            /_/PUNCT Steine_/NOUN 
+                            gesammelt_/VERB und_/CCONJ weggeworfen_/VERB -_/PUNCT 
+                            <add change="#blue_pen">
+                                Jagdhund_/NOUN und_/CCONJ Terminal_/PROPN 
+                                Mexico_/PROPN City_/PROPN ,_/PUNCT es_/PRON ballerte_/VERB 
+                                dann_/ADV von_/ADP der_/DET Zimmerdecke_/NOUN 
+                                auf_/ADP uns_/PRON herab_/ADV
+                            </add>
+                            Grübchen_/NOUN <del change="#blue_pen">und_/CCONJ</del> Fußkraft_/NOUN <add change="#blue_pen">so_/ADV</add> 
+                            schelmisch_/ADV /_/PUNCT <del change="#blue_pen">Wimpel_/PROPN</del> <add change="#blue_pen">Leporello_/PROPN</add> 
+                            des_/DET Baumes_/NOUN .._/PUNCT singender_/ADJ <choice><orig>Brauenbogen_/NOUN</orig> <reg change="#blue_pen">Brauenvogel_/NOUN</reg></choice> 
+                            Schamanenlied_/NOUN 
+                            <del change="#blue_pen">Jagdhund_/NOUN und_/CCONJ Terminal_/PROPN 
+                            Mexico_/PROPN City_/PROPN ,_/PUNCT es_/PRON ballerte_/VERB 
+                            dann_/ADV von_/ADP der_/DET Zimmerdecke_/NOUN 
+                            mächtig_/ADV auf_/ADP uns_/PRON herab_/ADV</del> 
+                            <add change="#blue_pen">die_/DET perlmuttfarbene_/ADJ Frühe_/NOUN im_/ADP Fenster_/NOUN</add>
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.7">
+                    <lg>
+                        <l>
+                            Newtonringe_/NOUN 
+                            so_/ADV porenhaft_/ADV der_/DET Schellenbaum_/NOUN 
+                            die_/DET Pollution_/NOUN 
+                            das_/DET Federbett_/NOUN /_/PUNCT -barett_/NOUN 
+                            ist_/AUX überschwemmt_/VERB 
+                            <choice><orig>ich_/PRON habe_/AUX geträumt_/VERB</orig> 
+                            <reg change="#blue_pen">ich_/PRON träumte_/VERB</reg></choice>
+                            ich_/PRON habe_/AUX mit_/ADP dir_/PRON ich_/PRON habe_/AUX mit_/ADP dir_/PRON auf_/ADP der_/DET Treppe_/NOUN geschlafen_/VERB 
+                            Blendung_/NOUN Verblendung_/NOUN 
+                            am_/ADP Zungengrund_/NOUN 
+                            sich_/PRON umarmen_/VERB /_/PUNCT sich_/PRON trennen_/VERB 
+                            was_/PRON hast_/AUX du_/PRON gerade_/ADV gedacht_/VERB ?_/PUNCT 
+                            vom_/ADP Ende_/NOUN zum_/ADP Anfang_/NOUN -_/PUNCT 
+                            eine_/DET zersprungene_/ADJ 
+                            Ofenlamelle_/NOUN ?_/PUNCT Gabelsberger_/ADJ 
+                            Notiz_/NOUN ?_/PUNCT Steine_/NOUN 
+                            gesammelt_/VERB und_/CCONJ weggeworfen_/VERB -_/PUNCT 
+                            Jagdhund_/NOUN und_/CCONJ Terminal_/NOUN 
+                            Mexiko_/PROPN City_/PROPN es_/PRON ballerte_/VERB 
+                            dann_/ADV von_/ADP der_/DET Zimmerdecke_/NOUN auf_/ADP uns_/PRON herab_/ADV 
+                            Grübchen_/NOUN /_/PUNCT 
+                            Fußkraft_/NOUN so_/ADV 
+                            schelmisch_/ADV /_/PUNCT Leporello_/NOUN 
+                            des_/DET Baumes_/NOUN .._/PUNCT singender_/ADJ Brauenvogel_/NOUN 
+                            Schamanenlied_/NOUN /_/PUNCT die_/DET 
+                            perlmuttfarbene_/ADJ Frühe_/NOUN im_/ADP Fenster_/NOUN
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.8">
+                    <lg>
+                        <l>
+                            Newtonringe_/NOUN 
+                            so_/ADV porenhaft_/ADV 
+                            der_/DET Schellenbaum_/NOUN 
+                            die_/DET Pollution_/NOUN 
+                            das_/DET Federbett_/NOUN /_/PUNCT -barett_/NOUN 
+                            ist_/AUX überschwemmt_/VERB 
+                            <choice>
+                                <orig>ich_/PRON träumte_/VERB ich_/PRON habe_/AUX hätte_/AUX mit_/ADP dir_/PRON auf_/ADP der_/DET Treppe_/NOUN geschlafen_/VERB </orig>
+                                <reg change="#blue_pen">ich_/PRON träumte_/VERB ich_/PRON  hätte_/AUX mit_/ADP dir_/PRON auf_/ADP der_/DET Treppe_/NOUN geschlafen_/VERB</reg>
+                                <reg change="#gray_pen">du_/PRON hast_/AUX mit_/ADP mir_/PRON auf_/ADP der_/DET Treppe_/NOUN geschlafen_/VERB </reg>
+                            </choice>
+                            Blendung_/NOUN Verblendung_/NOUN <add change="#gray_pen">,_/PUNCT</add> am_/ADP 
+                            Zungengrund_/NOUN sich_/PRON 
+                            umarmen_/VERB /_/PUNCT sich_/PRON trennen_/VERB 
+                            was_/PRON hast_/AUX du_/PRON gerade_/ADV gedacht_/VERB ?_/PUNCT 
+                            vom_/ADP Ende_/NOUN zum_/ADP Anfang_/NOUN -_/PUNCT 
+                            eine_/DET zersprungene_/ADJ 
+                            Ofenlamelle_/NOUN /_/PUNCT Gabelsberger_/ADJ 
+                            Notiz_/NOUN ?_/PUNCT Steine_/NOUN 
+                            gesammelt_/VERB und_/CCONJ weggeworfen_/VERB -_/PUNCT 
+                            Jagdhund_/NOUN und_/CCONJ Terminal_/PROPN 
+                            Mexico_/PROPN City_/PROPN es_/PRON ballerte_/VERB 
+                            <add change="#gray_pen">dann_/ADV</add> von_/ADP der_/DET Zimmerdecke_/NOUN auf_/ADP uns_/PRON herab_/ADV 
+                            Grübchen_/NOUN <add change="#gray_pen">/_/PUNCT</add> 
+                            Fußkraft_/NOUN so_/ADV 
+                            schelmisch_/ADV /_/PUNCT Leporello_/NOUN 
+                            des_/DET Baums_/NOUN .._/PUNCT singender_/ADJ Brauenvogel_/NOUN 
+                            Schamanenlied_/NOUN /_/PUNCT die_/DET 
+                            perlmuttfarbene_/ADJ Frühe_/NOUN im_/ADP Fenster_/NOUN
+                        </l>
+                    </lg>
+                </div>
+                
+                <div type="published">
+                    <lg>
+                        <l>Newtonringe_/NOUN so_/ADV porenhaft_/ADV der_/DET Schellenbaum_/NOUN die_/DET Pollution_/NOUN /_/PUNCT das_/DET Federbett_/NOUN /_/PUNCT -barett_/NOUN ist_/AUX überschwemmt_/VERB von_/ADP deinem_/DET Traum_/NOUN du_/PRON hast_/AUX mit_/ADP mir_/PRON auf_/ADP der_/DET Treppe_/NOUN geschlafen_/VERB /_/PUNCT Blendung_/NOUN Verblendung_/NOUN ,_/PUNCT am_/ADP Zungengrund_/NOUN sich_/PRON umarmen_/VERB sich_/PRON trennen_/VERB was_/PRON hast_/AUX du_/PRON gerade_/ADV gedacht_/VERB ?_/PUNCT vom_/ADP Ende_/NOUN zum_/ADP Anfang_/NOUN -_/PUNCT eine_/DET zersprungene_/ADJ Ofenlamelle_/NOUN /_/PUNCT Gabelsberger_/ADJ Notiz_/NOUN ?_/PUNCT Steine_/NOUN gesammelt_/VERB und_/CCONJ weggeworfen_/VERB /_/PUNCT Jagdhund_/NOUN und_/CCONJ Terminal_/PROPN Mexico_/PROPN City_/PROPN es_/PRON ballerte_/VERB dann_/ADV von_/ADP der_/DET Zimmerdecke_/NOUN auf_/ADP uns_/PRON herab_/ADV Grübchen_/NOUN /_/PUNCT Fußkraft_/NOUN ,_/PUNCT so_/ADV schelmisch_/ADV /_/PUNCT Leporello_/NOUN des_/DET Baums_/NOUN .._/PUNCT singender_/ADJ Brauenvogel_/NOUN Schamanenlied_/NOUN /_/PUNCT die_/DET perlmuttfarbene_/ADJ Frühe_/NOUN im_/ADP Fenster_/NOUN</l>
+                    </lg>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

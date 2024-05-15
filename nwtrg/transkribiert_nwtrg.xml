@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>            
+            <titleStmt>                
+                <title>Textzeugen "Newtonringe"</title>
+                <editor>J. Unterholzner</editor>
+            </titleStmt>
+            <publicationStmt>               
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>                
+                <bibl> BOX W129/480 <title> Newtonringe | Gabelsberger Universum </title>
+                    <author>Friederike Mayröcker </author>
+                    <date when="1981-03-03">, 03.03.1981</date>
+                    <biblScope unit="version">Endversion auf Seite 362f in: Friederike Mayröcker.
+                    Gesammelte Gedichte. Herausgegeben von Marcel Beyer, 2004.</biblScope>
+                    <orgName>Literaturarchiv der Österreichischen Nationalbibliothek</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <listChange>
+                    <change resp="#"></change>
+                </listChange>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem" xml:id="nwtrg">
+                <div type="witness" xml:id="nr.1">
+                    <lg>
+                        <l>
+                            "Universum"
+                            das Federbett / -barett
+                            ist überschwemmt
+                            so porenhaft
+                            der Schellenbaum / 
+                            (".. auf der Treppe
+                            geschlafen mit dir, es 
+                            hat mir geträumt ..")
+                            
+                            Steine gesammelt + weggeworfen
+                            Blendung Verblendung am 
+                            Zungengrund
+                            sich umarmen / 
+                            getrennt sein 
+                            ("was hast du gerade gedacht? ..")
+                            Wimpel / Lamelle Lamellenheft Ofenlamelle abgesprungen
+                            ist abgegangen abgesprungen
+                            die Gesetze des Gebens und Nehmens
+                            sind aufgehoben
+                            vom Ende zum Anfang, eine
+                            Gabelsberger Schrift? Handschrift Beschriftung? 
+                            Jagdhund und Terminal 
+                            Mexiko City
+                            es ballerte von den kahlen Bäumen, Grübchen der kahlen Decke
+                            und Fußkraft so
+                            schelmisch / Wipfel des 
+                            Baumes Baums
+                            singender Brauenbogen, Schamanenlied ..
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.2">
+                    <lg>
+                        <l>
+                            Gabelsberger Universum
+                            "Universum" + Gabelsberg
+                            die Gesetze des Gebens und Nehmnes
+                            sind aufgehoben
+                            das Federbett / -barett 
+                            ist überschwemmt
+                            so porenhaft der Schellenbaum, 
+                            die Steine 
+                            gesammelt und weggeworfen
+                            (".. auf der Treppe geschlafen mit dir .. es hat mir geträumt ..")
+
+                            Blendung Verblendung am Zungengrund
+                            sich umarmen / getrennt sein 
+                            ("..was hast du gerade gedacht?" 
+                            vom Ende zum Anfang, Wimpel die kahlen Wipfel
+                            die Ofenlamelle abgesprungen zersprungen
+                            ist es eine Gabelsberger
+                            Beschriftung? 
+                            Grübchen und Fußkraft so
+                            schelmisch / Wipfel Wimpel des 
+                            Baums Baumes, singender 
+                            Brauenbogen 
+                            Schamanenlied - 
+                            Jagdhund und Terminal 
+                            Mexico City /: es ballerte dann
+                            von der Decke des Zimmers mächtig auf uns herab
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.3">
+                    <lg>
+                        <l> 
+                            Gabelsberger Universum
+                            das Federbett / -barett 
+                            ist überschwemmt 
+                            so porenhaft der Schellenbaum
+                            auf der Treppe geschlafen mit dir
+                            es hat mir geträumt
+                            Blendung Verblendung am 
+                            Zungengrund, sich umarmen / getrennt
+                            sein sich trennen - was hast du gerade gedacht? 
+                            vom Ende zum Anfang / die Ofenlamelle Ofenlamellen
+                            die kahlen Wipfel 
+                            zersprungen Steine gesammelt + weggeworfen
+                            Grübchen und Fußkraft schelmisch Wimpel
+                            des Baumes, singender Brauenbogen Schamanenlied
+                            Jadghund und Terminal
+                            Mexico City es ballerte dann 
+                            von der Zimmerdecke
+                            mächtig auf uns herab
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.4">
+                    <lg>
+                        <l> 
+                            Gabelsberger Universum
+                            so porenhaft der Schellenbaum
+                            das Federbett / -barett 
+                            ist überschwemmt 
+                            auf der Treppe
+                            geschlafen mit dir es hat mir geträumt
+
+                            Blendung Verblendung am Zungengrund
+                            sich umarmen / sich trennen 
+                            was hast du gerade gedacht? 
+                            vom Ende zum Anfang / die Ofenlamellen die kahlen Wipfel - 
+                            Steine gesammelt und weggeworfen
+
+                            Grübchen und Fußkraft
+                            schelmisch
+                            Wimpel 
+                            des Baumes singender Brauenbogen 
+                            Schamanenlied
+                            Jagdhund und Terminal 
+                            Mexico City es ballerte dann
+                            von der Zimmerdecke mächtig
+                            auf uns herab
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.5">
+                    <lg>
+                        <l> 
+                            Gabelsberger Universum
+                            so porenhaft der Schellenbaum
+                            das Federbett / -barett
+                            ist überschwemmt : 
+                            auf der Treppe geschlafen mit dir
+                            es hat mir geträumt
+
+                            Blendung Verblendung
+                            am Zungengrund
+                            sich umarmen / sich trennen
+                            was hast du gerade gedacht? 
+                            vom Ende zum Anfang - 
+                            eine Gabelsberger Beschriftung?
+                            die zersprungene 
+                            Ofenlamelle / Steine 
+                            gesammelt und weggeworfen
+                            Grübchen und Fußkraft 
+                            schelmisch Wimpel
+                            des Baumes singender Brauenbogen Schamanenlied
+                            Jagdhund und Terminal
+                            Mexico City es ballerte dann von der Zimmerdecke mächtig
+                            auf uns herab
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.6">
+                    <lg>
+                        <l>
+                           Universum Newtonringe
+                           so porenhaft der Schellenbaum 
+                           die Pollution
+                           das Federbett / -barett
+                           ist überschwemmt : 
+                           auf der Treppe geschlafen mit dir 
+                           es hat mir geträumt - 
+                           ich habe geträumt ich habe mit dir auf der Treppe geschlafen
+                           Blendung Verblendung
+                           am Zungengrund 
+                           sich umarmen / sich trennen
+                           was hast du gerade eben gedacht? -
+                           vom Ende zum Anfang - 
+                           eine Gabelsberger Notiz
+                           Beschriftung? eine zersprungene 
+                           Ofenlamelle ? / Steine
+                           gesammelt und weggeworfen - 
+                           Grübchen und Fußkraft so
+                           schelmisch / Wimpel Leporello
+                           des Baumes .. singender Brauenbogen Brauenvogel
+                           Schamanenlied
+                           Jagdhund und Terminal 
+                           Mexico City, es ballerte 
+                           dann von der Zimmerdecke
+                           mächtig auf uns herab
+                           die perlmuttfarbene Frühe im Fenster
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.7">
+                    <lg>
+                        <l>
+                            Newtonringe
+                            so porenhaft
+                            der Schellenbaum 
+                            die Pollution 
+                            das Federbett / -barett
+                            ist überschwemmt
+                            ich träumte ich habe hätte mit dir auf der Treppe geschlafen
+                            du hast mit mir auf der Treppe geschlafen
+                            Blendung Verblendung, am 
+                            Zungengrund
+                            sich umarmen / sich trennen 
+                            was hast du gerade gedacht? 
+                            vom Ende zum Anfang - 
+                            eine zersprungene 
+                            Ofenlamelle / Gabelsberger 
+                            Notiz? Steine 
+                            gesammelt und weggeworfen - 
+                            Jagdhund und Terminal 
+                            Mexico City es ballerte 
+                            dann von der Zimmerdecke auf uns herab 
+                            Grübchen / Fußkraft so 
+                            schelmisch / Leporello 
+                            des Baums .. singender Brauenvogel 
+                            Schamanenlied / die 
+                            perlmuttfarbene Frühe im Fenster
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.8">
+                    <lg>
+                        <l>
+                            Newtonringe
+                            so porenhaft der Schellenbaum
+                            die Pollution 
+                            das Federbett / -barett 
+                            ist überschwemmt 
+                            ich habe geträumt ich träumte ich habe mit dir
+                            ich habe mit dir auf der Treppe geschlafen 
+                            Blendung Verblendung 
+                            am Zungengrund
+                            sich umarmen / sich trennen 
+                            was hast du gerade gedacht? 
+                            vom Ende zum Anfang - 
+                            eine zersprungene 
+                            Ofenlamelle? Gabelsberger 
+                            Notiz? Steine 
+                            gesammelt und weggeworfen - 
+                            Jagdhund und Terminal 
+                            Mexiko City es ballerte 
+                            dann von der Zimmerdecke auf uns herab
+                            Grübchen / 
+                            Fußkraft so schelmisch / Leporello 
+                            des Baumes .. singender Brauenvogel 
+                            Schamanenlied / die perlmuttfarbene Frühe im Fenster
+                        </l>
+                    </lg>
+                </div>
+                <div type="published">
+                    <lg>
+                        <l>
+                            Newtonringe
+                            so
+                            porenhaft der Schellenbaum
+                            die Pollution /
+                            das Federbett / -barett
+                            ist überschwemmt
+                            von deinem Traum
+                            du hast mit mir auf der Treppe geschlafen / 
+                            Blendung Verblendung, am
+                            Zungengrund
+                            sich umarmen sich trennen
+                            was hast du gerade gedacht? 
+                            vom Ende zum Anfang - 
+                            eine zersprungene 
+                            Ofenlamelle / Gabelsberger
+                            Notiz? Steine 
+                            gesammelt und weggeworfen / 
+                            Jagdhund und Terminal
+                            Mexico City es ballerte
+                            dann von der Zimmerdecke auf uns herab
+                            Grübchen / 
+                            Fußkraft, so 
+                            schelmisch / Leporello 
+                            des Baums .. singender Brauenvogel
+                            Schamanenlied / die 
+                            perlmuttfarbene Frühe im Fenster
+                        </l>
+                    </lg>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
