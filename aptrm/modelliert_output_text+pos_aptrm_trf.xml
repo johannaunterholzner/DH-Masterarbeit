@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Textzeugen "Alp-Traum"</title>
+                <editor>J. Unterholzner</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>                    <!-- information on the publication of the electronic text--></p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> BOX W129/479 <title>Alp-Traum</title>
+                    <author>Friederike Mayröcker </author>
+                    <date when="1981-01-12">12.01.1981</date>
+                    <biblScope unit="version"> Endversion auf Seite 353f in: Friederike Mayröcker.
+                    Gesammelte Gedichte. Herausgegeben von Marcel Beyer, 2004.</biblScope>
+                    <orgName>Literaturarchiv der Österreichischen Nationalbibliothek</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <listChange>
+                    <change resp="#blue_pen">Revisionen mit einem blauen Stift</change>
+                    <change resp="#"/>
+                </listChange>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem" xml:id="aptrm">
+                <div type="witness" xml:id="nr.1">
+                    <lg>
+                        <l>
+                            durchs_/ADP Zimmertelefon_/NOUN 
+                            des_/DET Berghotels_/NOUN 
+                            das_/DET Fehlen_/NOUN eines_/DET 
+                            Flaschenöffners_/NOUN 
+                            vorgebracht_/VERB 
+                            darauf_/ADV die_/DET Stimme_/NOUN 
+                            an_/ADP der_/DET Rezeption_/NOUN ,_/PUNCT 
+                            dann_/ADV hat_/AUX Ihr_/DET Vorgänger_/NOUN 
+                            ihn_/PRON mitgenommen_/VERB ,_/PUNCT 
+                            ich_/PRON schwieg_/VERB war_/AUX schuldbewusst_/ADV 
+                            für_/ADP jemand_/PRON den_/PRON 
+                            ich_/PRON nie_/ADV gesehen_/VERB hatte_/AUX ,_/PUNCT 
+                            wanderte_/VERB den_/DET zugefrorenen_/ADJ See_/NOUN 
+                            entlang_/ADP ,_/PUNCT das_/DET gelbe_/ADJ Schilf_/NOUN 
+                            nickte_/VERB am_/ADP Ufer_/NOUN 
+                            <add change="#blue_pen">als_/SCONJ ich_/PRON zurückkam_/VERB kreuzten_/VERB</add> 
+                            Mondfahrern_/NOUN gleich_/ADV <add change="#blue_pen">ausgestattet_/VERB</add> 
+                            das_/DET Bretterzeug_/NOUN geschultert_/VERB 
+                            <del change="#bue_pen">schwanken_/VERB</del> <choice><orig>knirschen_/VERB</orig> <reg change="#blue_pen">knirschend_/ADV</reg></choice> die_/DET <add change="#blue_pen">jungen_/ADJ</add> 
+                            <del change="#blue_pen">lauten_/ADJ</del> Fremden_/NOUN <del change="#blue_pen">über_/ADP den_/DET 
+                            Schnee_/NOUN auf_/ADP den_/DET</del> <add change="#blue_pen">den_/DET verschneiten_/ADJ Kirchenplatz_/NOUN</add>
+                            von_/ADP den_/DET <choice><orig>Dächern_/NOUN</orig> <reg change="#blue_pen">Dachtraufen_/NOUN</reg></choice> <del change="#blue_pen">hängen_/VERB</del> 
+                            <choice><orig>dräuen_/ADV</orig> <reg change="#blue_pen">dräuten_/ADV</reg></choice> <del change="#blue_pen">dolchen_/ADV die_/DET</del> <choice><orig>riesigen_/ADJ</orig> <reg change="#blue_pen">riesige_/ADJ</reg></choice> <add change="#blue_pen">Dolche_/NOUN</add> 
+                            <del change="#blue_pen">Eiszapfen_/NOUN</del> schädelwärts_/ADV
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.2">
+                    <lg>
+                        <l>
+                            durchs_/ADP Zimmertelefon_/NOUN 
+                            des_/DET Berghotels_/NOUN 
+                            rügte_/VERB ich_/PRON 
+                            das_/DET Fehlen_/NOUN eines_/DET Flaschenöffners_/NOUN 
+                            die_/DET Rezeption_/NOUN bedauerte_/VERB :_/PUNCT 
+                            dann_/ADV hat_/AUX Ihr_/DET Vorgänger_/NOUN 
+                            ihn_/PRON mitgenommen_/VERB !_/PUNCT 
+                            ich_/PRON fühlte_/VERB mich_/PRON schuldig_/ADV 
+                            für_/ADP jemand_/PRON den_/PRON ich_/PRON nicht_/PART kannte_/VERB 
+                            wanderte_/VERB 
+                            <del change="#blue_pen">ein_/DET wenig_/PRON</del> <add change="#blue_pen">etwas_/ADV</add> bedrückt_/ADV 
+                            den_/DET zugefrorenen_/ADJ See_/NOUN entlang_/ADP 
+                            das_/DET vergilbte_/ADJ Schilf_/NOUN 
+                            schwankte_/VERB am_/ADP Ufer_/NOUN 
+                            <del change="#blue_pen">zurückgekehrt_/VERB in_/ADP die_/DET 
+                            Ortschaft_/NOUN kreuzten_/VERB</del> 
+                            <choice>
+                                <orig>
+                                    wie_/ADP Mondfahrer_/NOUN ausgestattet_/VERB 
+                                    kreuzweise_/ADJ Schistöcke_/NOUN und_/CCONJ Bretter_/NOUN geschultert_/VERB
+                                    lauthals_/ADV und_/CCONJ lässig_/ADV
+                                </orig>
+                                <reg change="#blue_pen">
+                                    lauthals_/ADV und_/CCONJ lässig_/ADV
+                                    wie_/ADP Mondfahrer_/NOUN ausgestattet_/VERB
+                                    Schistöcke_/NOUN und_/CCONJ Bretter_/NOUN geschultert_/VERB
+                                    stapften_/VERB 
+                                </reg>
+                            </choice> 
+                            die_/DET jungen_/ADJ fremden_/NOUN <del change="#blue_pen">knirschend_/ADV</del> 
+                            <del change="#blue_pen">den_/DET verschneiten_/ADJ Kirchenplatz_/NOUN</del> 
+                            <add change="#blue_pen">über_/ADP</add> das_/DET knirschende_/ADJ weiße_/ADJ Parkett_/NOUN 
+                            <choice><orig>Kirchenvorplatz_/NOUN</orig> <reg change="#blue_pen">des_/DET Kirchenvorplatzes_/NOUN</reg></choice> von_/ADP den_/DET Dachtraufen_/NOUN 
+                            <choice><orig>dräuten_/VERB</orig> <reg change="#blue_pen">dräuen_/VERB</reg></choice> riesige_/ADJ Dolche_/NOUN schädelwärts_/ADV 
+                            <add change="#blue_pen">ich_/PRON wanderte_/VERB jetzt_/ADV in_/ADP der_/DET Mitte_/NOUN der_/DET Straße_/NOUN</add>
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.3">
+                    <lg>
+                        <l>
+                            Alp-Traum_/NOUN 
+                            <add change="#blue_pen">über_/ADP das_/DET</add> <del change="#blue_pen">durchs_/ADP</del> Zimmertelefon_/NOUN 
+                            des_/DET Berghotels_/NOUN 
+                            melde_/VERB ich_/PRON 
+                            das_/DET Fehlen_/NOUN eines_/DET Flaschenöffners_/NOUN :_/PUNCT 
+                            die_/DET Rezeption_/NOUN bedauert_/VERB :_/PUNCT 
+                            dann_/ADV hat_/AUX Ihr_/DET Vorgänger_/NOUN 
+                            ihn_/PRON mitgenommen_/VERB !_/PUNCT 
+                            ich_/PRON komme_/VERB mir_/PRON schuldig_/ADV vor_/ADP 
+                            für_/ADP jemand_/PRON den_/PRON ich_/PRON nicht_/PART kenne_/VERB <add change="#blue_pen">,_/PUNCT</add> 
+                            wandere_/VERB etwas_/ADV bedrückt_/ADV 
+                            den_/DET zugefrorenen_/ADJ See_/NOUN entlang_/ADP <add change="#blue_pen">:_/PUNCT</add> 
+                            gebüschelt_/ADV <del change="#blue_pen">schwankend_/ADV</del> <add change="#blue_pen">schwankt_/VERB</add> 
+                            das_/DET vergilbte_/ADJ Schilfrohr_/NOUN am_/ADP Ufer_/NOUN <add change="#blue_pen">;_/PUNCT</add> 
+                            lauthals_/ADV und_/CCONJ lässig_/ADV 
+                            wie_/ADP Mondfahrer_/NOUN ausgestattet_/VERB 
+                            kreuzweise_/ADJ Schistöcke_/NOUN und_/CCONJ Bretter_/NOUN geschultert_/VERB 
+                            stapfen_/VERB die_/DET jungen_/ADJ Fremden_/NOUN 
+                            über_/ADP den_/DET knirschenden_/ADJ <choice><orig>Kirchenvorplatz_/NOUN</orig> <reg change="#blue_pen">Kirchenplatz_/NOUN</reg></choice> -_/PUNCT 
+                            ich_/PRON spähe_/VERB angstvoll_/ADV nach_/ADP oben_/ADV 
+                            benutze_/VERB die_/DET Fahrbahnmitte_/NOUN :_/PUNCT 
+                            von_/ADP den_/DET Dachtraufen_/NOUN  
+                            dräuen_/VERB <del change="#blue_pen">riesige_/ADJ</del> <add change="#blue_pen">schreckliche_/ADJ</add> Dolche_/NOUN schädelwärts_/ADV
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.4">
+                    <lg>
+                        <l>
+                            Alp-Traum_/NOUN 
+                            über_/ADP das_/DET Zimmertelefon_/NOUN 
+                            des_/DET Berghotels_/NOUN 
+                            melde_/VERB ich_/PRON 
+                            das_/DET Fehlen_/NOUN eines_/DET Flaschenöffners_/NOUN -_/PUNCT 
+                            die_/DET Rezeption_/NOUN bedauert_/VERB :_/PUNCT 
+                            dann_/ADV hat_/AUX Ihr_/DET Vorgänger_/NOUN 
+                            ihn_/PRON mitgenommen_/VERB !_/PUNCT 
+                            ich_/PRON komme_/VERB mir_/PRON schuldig_/ADV vor_/ADP 
+                            für_/ADP jemand_/PRON den_/PRON ich_/PRON nicht_/PART kenne_/VERB ,_/PUNCT 
+                            wandere_/VERB etwas_/ADV <del change="#blue_pen">bedrückt_/ADV</del> <add change="#blue_pen">verdrossen_/ADV</add> 
+                            den_/DET zugefrorenen_/ADJ See_/NOUN entlang_/ADP :_/PUNCT 
+                            gebüschelt_/ADV schwankt_/VERB 
+                            das_/DET vergilbte_/ADJ Schilfrohr_/NOUN am_/ADP Ufer_/NOUN ._/PUNCT 
+                            Lauthals_/ADV und_/CCONJ lässig_/ADV 
+                            wie_/ADP Mondfahrer_/NOUN ausgerüstet_/VERB 
+                            kreuzweise_/ADJ Schistöcke_/NOUN und_/CCONJ -bretter_/NOUN geschultert_/VERB 
+                            stapfen_/VERB die_/DET jungen_/ADJ Fremden_/NOUN 
+                            über_/ADP den_/DET knirschenden_/ADJ Kirchenplatz_/NOUN -_/PUNCT 
+                            von_/ADP den_/DET Dachtraufen_/NOUN 
+                            dräuen_/VERB 
+                            schreckliche_/ADJ Dolche_/NOUN schädelwärts_/ADV
+                        </l>
+                    </lg>
+                </div>
+
+                <div type="published">
+                    <lg>
+                        <l>Alp-Traum_/NOUN über_/ADP das_/DET Zimmertelefon_/NOUN des_/DET Berghotels_/NOUN melde_/VERB ich_/PRON das_/DET Fehlen_/NOUN eines_/DET Flaschenöffners_/NOUN -_/PUNCT die_/DET Rezeption_/NOUN bedauert_/VERB :_/PUNCT dann_/ADV hat_/AUX Ihr_/DET Vorgänger_/NOUN ihn_/PRON mitgenommen_/VERB !_/PUNCT ich_/PRON komme_/VERB mir_/PRON schuldig_/ADV vor_/ADP für_/ADP jemand_/PRON den_/PRON ich_/PRON nicht_/PART kenne_/VERB ,_/PUNCT wandere_/VERB etwas_/ADV bedrückt_/ADV den_/DET zugefrorenen_/ADJ See_/NOUN entlang_/ADP :_/PUNCT gebüschelt_/ADV schwankt_/VERB das_/DET vergilbte_/ADJ Schilfrohr_/NOUN am_/ADP Ufer_/NOUN ._/PUNCT Lauthals_/ADV und_/CCONJ lässig_/ADV wie_/ADP Mondfahrer_/NOUN ausgerüstet_/VERB kreuzweise_/ADJ Schistöcke_/NOUN und_/CCONJ -bretter_/NOUN geschultert_/VERB stapfen_/VERB die_/DET jungen_/ADJ Fremden_/NOUN über_/ADP den_/DET knirschenden_/ADJ Kirchenplatz_/NOUN -_/PUNCT von_/ADP den_/DET Dachtraufen_/NOUN dräuen_/VERB schreckliche_/ADJ Dolche_/NOUN schädelwärts_/ADV</l>
+                    </lg>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

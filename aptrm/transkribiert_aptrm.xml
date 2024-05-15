@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>            
+            <titleStmt>                
+                <title>Textzeugen "Alp-Traum"</title>
+                <editor>J. Unterholzner</editor>
+            </titleStmt>
+            <publicationStmt>                
+                <p><!-- information on the publication of the electronic text--></p>
+            </publicationStmt>
+            <sourceDesc>  
+                <bibl> BOX W129/479 <title>Alp-Traum</title>
+                    <author>Friederike Mayröcker </author>
+                    <date when="1981-01-12">12.01.1981</date>
+                    <biblScope unit="version"> Endversion auf Seite 353f in: Friederike Mayröcker.
+                    Gesammelte Gedichte. Herausgegeben von Marcel Beyer, 2004.</biblScope>
+                    <orgName>Literaturarchiv der Österreichischen Nationalbibliothek</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <listChange>
+                    <change resp="#"></change>
+                </listChange>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem" xml:id="aptrm">
+                <div type="witness" xml:id="nr.1">
+                    <lg>
+                        <l>
+                            durchs Zimmertelefon
+                            des Berghotels
+                            das Fehlen eines
+                            Flaschenöffners
+                            vorgebracht
+                            darauf die Stimme
+                            an der Rezeption, 
+                            dann hat Ihr Vorgänger
+                            ihn mitgenommen, 
+                            ich schwieg war schuldbewusst
+                            für jemand den
+                            ich nie gesehen hatte, 
+                            wanderte den zugefrorenen See
+                            entlang, das gelbe Schilf
+                            nickte am Ufer
+                            als ich zurückkam kreuzten
+                            Mondfahrern gleich ausgestattet
+                            das Bretterzeug geschultert
+                            schwanken knirschen knirschend die jungen
+                            lauten Fremden über den verschneiten Kirchenplatz
+                            Schnee auf den
+                            von den Dächern Dachtraufen hängen 
+                            dräuen dräuten dolchen die riesigen riesige Dolche
+                            Eiszapfen schädelwärts
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.2">
+                    <lg>
+                        <l>
+                            durchs Zimmertelefon
+                            des Berghotels
+                            rügte ich
+                            das Fehlen eines Flaschenöffners
+                            die Rezeption bedauerte : 
+                            dann hat Ihr Vorgänger 
+                            ihn mitgenommen!
+                            ich fühlte mich schuldig
+                            für jemand den ich nicht kannte
+                            wanderte
+                            ein wenig etwas bedrückt
+                            den zugefrorenen See entlang
+                            das vergilbte Schilf
+                            schwankte am Ufer
+                            zurückgekehrt in die 
+                            Ortschaft kreuzten
+                            wie Mondfahrer ausgestattet
+                            kreuzweise Schistöcke und Bretter geschultert
+                            lauthals und lässig stapften
+                            die jungen fremden knirschend
+                            den verschneiten Kirchenplatz
+                            über das knirschende weiße Parkett
+                            Kirchenvorplatz des Kirchenvorplatzes von den Dachtraufen
+                            dräuten riesige Dolche schädelwärts
+                            ich wanderte jetzt in der Mitte der Straße
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.3">
+                    <lg>
+                        <l> 
+                            Alp-Traum
+                            über das durchs Zimmertelefon
+                            des Berghotels
+                            melde ich 
+                            das Fehlen eines Flaschenöffners : 
+                            die Rezeption bedauert : 
+                            dann hat Ihr Vorgänger
+                            ihn mitgenommen!
+                            ich komme mir schuldig vor
+                            für jemand den ich nicht kenne , 
+                            wandere etwas bedrückt
+                            den zugefrorenen See entlang : 
+                            gebüschelt schwankend schwankt
+                            das vergilbte Schilfrohr am Ufer ;
+                            lauthals und lässig 
+                            wie Mondfahrer ausgestattet
+                            kreuzweise Schistöcke und Bretter geschultert ,
+                            stapfen die jungen Fremden über den knirschenden Kirchenvorplatz Kirchenplatz - 
+                            ich spähe angstvoll nach oben
+                            benutze die Fahrbahnmitte : 
+                            von den Dachtraufen dräuen
+                            riesige Dolche schädelwärts
+                            von den Dachtraufen
+                            dräuen riesige schreckliche Dolche schädelwärts 
+                        </l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.4">
+                    <lg>
+                        <l> 
+                            Alp-Traum
+                            über das Zimmertelefon
+                            des Berghotels
+                            melde ich 
+                            das Fehlen eines Flaschenöffners - 
+                            die Rezeption bedauert : 
+                            dann hat Ihr Vorgänger
+                            ihn mitgenommen!
+                            ich komme mir schuldig vor
+                            für jemand den ich nicht kenne, 
+                            wandere etwas bedrückt verdrossen
+                            den zugefrorenen See entlang: 
+                            gebüschelt schwankt
+                            das vergilbte Schilfrohr am Ufer. 
+                            Lauthals und lässig
+                            wie Mondfahrer ausgerüstet
+                            kreuzweise Schistöcke und -bretter geschultert
+                            stapfen die jungen Fremden
+                            über den knirschenden Kirchenplatz - 
+                            von den Dachtraufen
+                            dräuen 
+                            schreckliche Dolche schädelwärts
+                        </l>
+                    </lg>
+                </div>
+                
+                <div type="published">
+                    <lg>
+                        <l>
+                            Alp-Traum
+                            über das Zimmertelefon
+                            des Berghotels
+                            melde ich
+                            das Fehlen eines Flaschenöffners - 
+                            die Rezeption bedauert : 
+                            dann hat Ihr Vorgänger 
+                            ihn mitgenommen!
+                            ich komme mir schuldig vor 
+                            für jemand den ich nicht kenne, 
+                            wandere etwas bedrückt 
+                            den zugefrorenen See entlang : 
+                            gebüschelt schwankt
+                            das vergilbte Schilfrohr am Ufer.
+                            Lauthals und lässig
+                            wie Mondfahrer ausgerüstet
+                            kreuzweise Schistöcke und -bretter geschultert
+                            stapfen die jungen Fremden
+                            über den knirschenden Kirchenplatz - 
+                            von den Dachtraufen
+                            dräuen 
+                            schreckliche Dolche schädelwärts
+                        </l>
+                    </lg>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
