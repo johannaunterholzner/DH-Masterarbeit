@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>           
+            <titleStmt>               
+                <title>Textzeugen "Rosenfragment"</title>
+                <editor>J. Unterholzner</editor>
+            </titleStmt>
+            <publicationStmt>                
+                <p><!-- information on the publication of the electronic text--></p>
+            </publicationStmt>
+            <sourceDesc>                
+                <bibl> BOX W127/471 <title> Rosenfragment</title>
+                    <author>Friederike Mayröcker </author>
+                    <date when="1981-10-03">02.-03.10.1981</date>
+                    <biblScope unit="version"> Endversion auf Seite 412 in: Friederike Mayröcker.
+                    Gesammelte Gedichte. Herausgegeben von Marcel Beyer </biblScope>
+                    <orgName>Literaturarchiv der Österreichischen Nationalbibliothek</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <listChange>
+                    <change resp="#"/>
+                </listChange>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem" xml:id="rsfrgmt">
+                <div type="witness" xml:id="nr.1">
+                    <lg>
+                        <l>Rosenfragment_/NOUN mit_/ADP Farbstich_/NOUN ,_/PUNCT magisches_/ADJ Werk_/NOUN ,_/PUNCT Stühle_/NOUN beiseite_/ADV geschoben_/VERB ,_/PUNCT die_/DET Hürde_/NOUN genommen_/VERB ,_/PUNCT blinken_/VERB und_/CCONJ blicken_/VERB zu_/PART viel_/PRON ,_/PUNCT viel_/ADV zu_/PART viel_/PRON zu_/PART blendend_/ADV ,_/PUNCT das_/DET leuchtende_/ADJ das_/DET Vlies_/NOUN ,_/PUNCT an_/ADP den_/DET Lippenrändern_/NOUN das_/DET leuchtende_/ADJ Lächeln_/NOUN ,_/PUNCT Schüttelhaltung_/NOUN wir_/PRON essen_/VERB den_/DET Mond_/NOUN unter_/ADP der_/DET Schläfe_/NOUN zu_/PART liegen_/VERB und_/CCONJ funkelnd_/ADV mit_/ADP gepolsteter_/ADJ Hand_/NOUN ,_/PUNCT verborgen_/VERB ,_/PUNCT ich_/PRON schwanke_/VERB im_/ADP Sattel_/NOUN ,_/PUNCT eigentlich_/ADV nicht_/PART zu_/PART erkennen_/VERB erkennbar_/ADV dieses_/DET Gesicht_/NOUN ,_/PUNCT bei_/ADP Steinschlag_/NOUN von_/ADP oben_/ADV und_/CCONJ unten_/ADV ,_/PUNCT die_/DET gedrechselten_/ADJ Stühle_/NOUN beiseite_/ADV geschoben_/VERB ,_/PUNCT und_/CCONJ schnepfend_/ADV ,_/PUNCT mein_/DET Lebens-_/NOUN mein_/DET Liebesfreund_/NOUN ,_/PUNCT als_/SCONJ die_/DET Zeit_/NOUN weiterging_/VERB ,_/PUNCT und_/CCONJ funkelnd_/ADV mit_/ADP gepolsteter_/ADJ Hand_/NOUN ,_/PUNCT der_/DET schwankende_/ADJ Sattel_/NOUN des_/DET Bergs_/NOUN ,_/PUNCT das_/DET zur_/ADP Hälfte_/NOUN entschleierte_/ADJ Traumgesicht_/NOUN ,_/PUNCT wir_/PRON essen_/VERB den_/DET Mond_/NOUN ,_/PUNCT unter_/ADP der_/DET Schläfe_/NOUN zu_/PART liegen_/VERB ,_/PUNCT hinter_/ADP Wolkenschleiern_/NOUN verborgen_/VERB ,_/PUNCT ja_/ADV Quendel_/NOUN !_/PUNCT</l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.2">
+                    <lg>
+                        <l>Rosenfragment_/NOUN mit_/ADP Farbstich_/NOUN ,_/PUNCT Fremdflocke_/NOUN ,_/PUNCT magisches_/ADJ Werk_/NOUN ,_/PUNCT Schüttelhaltung_/NOUN ,_/PUNCT wir_/PRON essen_/VERB den_/DET Mond_/NOUN ,_/PUNCT unter_/ADP der_/DET Schläfe_/NOUN zu_/PART liegen_/VERB ,_/PUNCT vlinken_/VERB und_/CCONJ blicken_/VERB ,_/PUNCT zu_/PART viel_/PRON ,_/PUNCT viel_/ADV zu_/PART viel_/PRON ,_/PUNCT zu_/PART blendend_/ADV !_/PUNCT rufe_/VERB ich_/PRON an_/ADP den_/DET Lippenrändern_/NOUN das_/DET Vlies_/NOUN ,_/PUNCT das_/DET leuchtende_/ADJ Lächeln_/NOUN ,_/PUNCT und_/CCONJ funkelnd_/ADV ,_/PUNCT mit_/ADP gepolsteter_/ADJ Hand_/NOUN ,_/PUNCT Innenpolster_/NOUN der_/DET Hand_/NOUN ich_/PRON schwanke_/VERB im_/ADP Sattel_/NOUN ,_/PUNCT eigentlich_/ADV nicht_/PART zu_/PART erkennen_/VERB erkennbar_/ADV ,_/PUNCT und_/CCONJ schnepfend_/ADV ,_/PUNCT mein_/DET Lebens-_/NOUN mein_/DET Liebesfreund_/NOUN ,_/PUNCT als_/SCONJ die_/DET Zeit_/NOUN weiterging_/VERB ,_/PUNCT im_/ADP schwankenden_/ADJ Sattel_/NOUN des_/DET Bergs_/NOUN ,_/PUNCT das_/DET zur_/ADP Hälfte_/NOUN entschleierte_/ADJ enthüllte_/ADJ Traumgesicht_/NOUN ,_/PUNCT hinter_/ADP Wolkenschleiern_/NOUN Wolkenblättern_/NOUN verborgen_/VERB ,_/PUNCT ja_/ADV Quendel_/NOUN !_/PUNCT</l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.3">
+                    <lg>
+                        <l>Rosenfragment_/NOUN mit_/ADP Farbstich_/NOUN ,_/PUNCT Fremdflocke_/NOUN ,_/PUNCT magisches_/ADJ Werk_/NOUN ,_/PUNCT Schüttelhaltung_/NOUN ,_/PUNCT anarcher_/ADJ Kunstverstand_/NOUN wir_/PRON essen_/VERB den_/DET Mond_/NOUN ,_/PUNCT unter_/ADP der_/DET Schläfe_/NOUN zu_/PART liegen_/VERB (_/PUNCT blinken_/VERB und_/CCONJ blicken_/VERB )_/PUNCT ,_/PUNCT zu_/PART viel_/PRON ,_/PUNCT viel_/ADV zu_/PART viel_/PRON ,_/PUNCT zu_/PART blendend_/ADV ,_/PUNCT rufe_/VERB ich_/PRON ,_/PUNCT an_/ADP den_/DET Lippenrändern_/NOUN die_/DET Vliese_/NOUN ,_/PUNCT das_/DET Vlies_/NOUN das_/DET leuchtende_/ADJ Lächeln_/NOUN ,_/PUNCT funkelnd_/ADV ,_/PUNCT Innenpolster_/NOUN der_/DET Hand_/NOUN ,_/PUNCT gepolsterte_/ADJ Innenhand_/NOUN ich_/PRON schwanke_/VERB im_/ADP Sattel_/NOUN ,_/PUNCT eigentlich_/ADV nicht_/PART erkennbar_/ADV ,_/PUNCT und_/CCONJ schnepfend_/ADV ,_/PUNCT mein_/DET Lebens-_/X und_/CCONJ Liebesfreund_/NOUN ,_/PUNCT als_/SCONJ die_/DET Zeit_/NOUN weiterging_/VERB ,_/PUNCT im_/ADP schwnakenden_/ADJ Sattel_/NOUN des_/DET Bergs_/NOUN ,_/PUNCT das_/DET zur_/ADP Hälfte_/NOUN enthüllte_/ADJ Traumgesicht_/NOUN ,_/PUNCT Schattenlocke_/NOUN hinter_/ADP Wolkenblättern_/NOUN verborgen_/VERB ,_/PUNCT ja_/INTJ ,_/PUNCT Quendel_/NOUN !_/PUNCT erloschenes_/ADJ Traumgesicht_/NOUN</l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.4">
+                    <lg>
+                        <l>Rosenfragment_/NOUN mit_/ADP Farbstich_/NOUN ,_/PUNCT Fremdflocke_/NOUN ,_/PUNCT magischer_/ADJ Schattenlippe_/NOUN ,_/PUNCT Schüttelhaltung_/NOUN ,_/PUNCT anarcher_/ADJ Kunstverstand_/NOUN ,_/PUNCT unter_/ADP der_/DET Schläfe_/NOUN zu_/PART liegen_/VERB ,_/PUNCT wir_/PRON essen_/VERB den_/DET Mond_/NOUN ,_/PUNCT blinken_/VERB und_/CCONJ blicken_/VERB zu_/PART viel_/PRON ,_/PUNCT viel_/ADV zu_/PART viel_/PRON zu_/PART blendend_/ADV ,_/PUNCT an_/ADP den_/DET Lippenrändern_/NOUN das_/DET Vlies_/NOUN ,_/PUNCT leuchtendes_/ADJ Lächeln_/NOUN ,_/PUNCT funkelnd_/ADV ,_/PUNCT gepolsterte_/ADJ Innenhand_/NOUN ,_/PUNCT ich_/PRON schwanke_/VERB im_/ADP Sattel_/NOUN ,_/PUNCT eigentlich_/ADV nicht_/PART erkennbar_/ADV ,_/PUNCT schnepfend_/ADV ,_/PUNCT mein_/DET Lebens-_/PUNCT mein_/DET Liebesfreund_/NOUN als_/SCONJ die_/DET Zeit_/NOUN weiterging_/VERB ,_/PUNCT im_/ADP schwankenden_/ADJ Sattel_/NOUN des_/DET Bergs_/NOUN</l>
+                    </lg>
+                </div>
+                <div type="witness" xml:id="nr.5">
+                    <lg>
+                        <l>Rosenfragment_/NOUN mit_/ADP Farbstich_/NOUN ,_/PUNCT Fremdlocke_/NOUN ,_/PUNCT magisches_/ADJ Werk_/NOUN ,_/PUNCT Schüttelhaltung_/NOUN ,_/PUNCT anarcher_/ADJ Kunstverstand_/NOUN ,_/PUNCT unter_/ADP der_/PRON Schläfe_/NOUN zu_/PART liegen_/VERB ,_/PUNCT wir_/PRON essen_/VERB den_/DET Mond_/NOUN ,_/PUNCT blinken_/VERB und_/CCONJ blicken_/VERB ,_/PUNCT zu_/PART viel_/PRON ,_/PUNCT viel_/ADV zu_/PART viel_/PRON ,_/PUNCT zu_/PART blendend_/ADV ,_/PUNCT an_/ADP den_/DET Lippenrändern_/NOUN das_/DET Vlies_/NOUN ,_/PUNCT leuchtendes_/ADJ Lächeln_/NOUN ,_/PUNCT funkeln_/VERB ,_/PUNCT Innenpolster_/NOUN der_/DET Hand_/NOUN ,_/PUNCT ich_/PRON schwanke_/VERB im_/ADP Sattel_/NOUN ,_/PUNCT eigentlich_/ADV nicht_/PART erkennbar_/ADV ,_/PUNCT schnepfend_/ADV ,_/PUNCT mein_/DET Lebens-_/PUNCT mein_/DET Liebesfreund_/NOUN als_/ADP die_/DET Zeit_/NOUN weiterging_/VERB ,_/PUNCT im_/ADP schwankenden_/ADJ Sattel_/NOUN des_/DET Bergs_/NOUN ,_/PUNCT die_/DET zur_/ADP Hälfe_/NOUN enthüllte_/ADJ Schattenlippe_/NOUN ,_/PUNCT hinter_/ADP Wolkenblättern_/NOUN verborgen_/VERB ,_/PUNCT ja_/INTJ ,_/PUNCT Quendel_/NOUN !_/PUNCT</l>
+                    </lg>
+                </div>
+                <div type="published">
+                    <lg>
+                        <l>Rosenfragment_/NOUN mit_/ADP Farbstich_/NOUN ,_/PUNCT Fremdflocke_/NOUN ,_/PUNCT magisches_/ADJ Werk_/NOUN ,_/PUNCT Schüttelhaltung_/NOUN ,_/PUNCT anarcher_/ADJ Kunstverstand_/NOUN ,_/PUNCT unter_/ADP der_/DET Schläfe_/NOUN zu_/PART liegen_/VERB ,_/PUNCT wir_/PRON essen_/VERB den_/DET Mond_/NOUN ,_/PUNCT blinken_/VERB und_/CCONJ blicken_/VERB ,_/PUNCT zu_/PART viel_/PRON ,_/PUNCT viel_/ADV zu_/PART viel_/PRON ,_/PUNCT zu_/PART blendend_/ADV ,_/PUNCT an_/ADP den_/DET Lippenrändern_/NOUN das_/DET Vlies_/NOUN ,_/PUNCT leuchtendes_/ADJ Lächeln_/NOUN ,_/PUNCT funkeln_/VERB ,_/PUNCT Innenpolster_/NOUN der_/DET Hand_/NOUN ,_/PUNCT ich_/PRON schwanke_/VERB im_/ADP Sattel_/NOUN ,_/PUNCT eigentlich_/ADV nicht_/PART erkennbar_/ADV ,_/PUNCT rufe_/VERB ich_/PRON ,_/PUNCT schnepfend_/ADV ,_/PUNCT zwischen_/ADP kleinem_/ADJ und_/CCONJ großem_/ADJ Liebfrauentag_/NOUN ,_/PUNCT ein_/DET Lebens-_/NOUN ein_/DET Liebesfreund_/NOUN ,_/PUNCT als_/SCONJ die_/DET Zeit_/NOUN weiterging_/VERB ,_/PUNCT im_/ADP schwankenden_/ADJ Sattel_/NOUN des_/DET Bergs_/NOUN ,_/PUNCT das_/DET halb_/ADV erloschene_/ADJ Traumgesicht_/NOUN ,_/PUNCT hinter_/ADP Wolkenblättern_/NOUN verborgen_/VERB ,_/PUNCT ja_/INTJ ,_/PUNCT Quendel_/NOUN !_/PUNCT</l>
+                    </lg>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
