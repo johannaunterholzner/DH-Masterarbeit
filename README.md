@@ -1,5 +1,5 @@
 # DH-Masterarbeit
-Repository für alle Python-Files, die im Laufe der Masterarbeit für das Studium Digital Humanities von Johanna Unterholzner, BA, erstellt wurden.
+Repository für alle Python-Files, die im Laufe der Masterarbeit für das Studium Digital Humanities an der Universität Wien von Johanna Unterholzner erstellt wurden.
 Der Titel der Arbeit lautet: 
 
 Um die Genese von fünf Gedichten aufzubereiten und zu analysieren, wurde für jedes Gedicht ein eigener Ordner erstellt, in dem sich alle Python-Skripts mit den entsprechenden Outputs befinden. Formal unterscheiden sich die Skripts in den Ordnern nicht, wesentliche Unterschiede in Hinblick auf die Outputs sind insbesondere beim Auswertungs-Skript zu finden.
