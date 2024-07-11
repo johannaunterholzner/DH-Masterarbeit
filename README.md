@@ -8,7 +8,12 @@ Alle jene Python-Skripts mit individuellen Outputs für ein Gedicht ("2_Confusio
 
 Die Ordnernamen stellen Kürzel für die bearbeiteten Gedichte dar: 
 aptrm: "Alp-Traum" (12.01.1981)
+
 nwtrg: "Newtonringe" (03.03.1981)
+
 rsfrgmt: "Rosenfragment" (02./03.10.1981)
+
 vwdazb: "vielleicht weil das Auge zuerst bricht" (11.10.1981)
+
 wsnmp: "Wassersachen, nach Mimmo Paladino" (23./25.10.1981)
+
