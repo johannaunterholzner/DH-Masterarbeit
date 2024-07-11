@@ -7,6 +7,7 @@ Anhand der Skripten ist der Prozess der Aufbereitung und Analyse von Gedichten m
 Alle jene Python-Skripts mit individuellen Outputs für ein Gedicht ("2_Confusion matrix" und "5_Auswertung") sind im Ordner für das jeweilige Gedicht zu finden. Die Python-Skripts ohne spezifischen Output ("1_POS Tagging" - "3_Extrahieren der Textstufen" und "4_Token+POS zu CSV") befinden sich einmalig im Repository. 
 
 Die Ordnernamen stellen Kürzel für die bearbeiteten Gedichte dar: 
+
 aptrm: "Alp-Traum" (12.01.1981)
 
 nwtrg: "Newtonringe" (03.03.1981)
