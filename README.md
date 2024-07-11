@@ -4,4 +4,11 @@ Der Titel der Arbeit lautet: "Möglichkeiten und Methoden zur Untersuchung von T
 
 Anhand der Skripten ist der Prozess der Aufbereitung und Analyse von Gedichten mit ihren Textzeugen nachzuverfolgen. Beginnend mit dem POS-Tagging der Transkripte in einer XML-Datei, der Erstellung einer Confusion Matrix zur Qualitätsüberprüfung des Taggings, der Extrahierung von Textstufen aus den Textzeugen (sofern handschriftliche Eingriffe vorzufinden sind) und der Überführung der Textstufen von XML in ein CSV-Format hin zur Auswertung der modellierten und extrahierten Texte in Hinblick auf die Art der Eingriffe und insbesondere der POS-Häufigkeitsverteilungen über alle Textstufen hinweg. 
 
-Alle jene Python-Skripts mit individuellen Outputs für ein Gedicht ("2_ConfusionMatrix" und "5_Auswertung") sind im Ordner für das jeweilige Gedicht zu finden. Die Python-Skripts ohne spezifischen Output ("1_POS-Tagging" - "3_Extrahierung der Textstufen" und "4_von XML to CSV") befinden sich einmalig im Repository. 
+Alle jene Python-Skripts mit individuellen Outputs für ein Gedicht ("2_Confusion matrix" und "5_Auswertung") sind im Ordner für das jeweilige Gedicht zu finden. Die Python-Skripts ohne spezifischen Output ("1_POS Tagging" - "3_Extrahieren der Textstufen" und "4_Token+POS zu CSV") befinden sich einmalig im Repository. 
+
+Die Ordnernamen stellen Kürzel für die bearbeiteten Gedichte dar: 
+aptrm: "Alp-Traum" (12.01.1981)
+nwtrg: "Newtonringe" (03.03.1981)
+rsfrgmt: "Rosenfragment" (02./03.10.1981)
+vwdazb: "vielleicht weil das Auge zuerst bricht" (11.10.1981)
+wsnmp: "Wassersachen, nach Mimmo Paladino" (23./25.10.1981)
