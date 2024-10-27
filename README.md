@@ -18,3 +18,7 @@ vwdazb: "vielleicht weil das Auge zuerst bricht" (11.10.1981)
 
 wsnmp: "Wassersachen, nach Mimmo Paladino" (23./25.10.1981)
 
+Alle zugrundeliegenden Materialien sind gemeinsam mit den Scans der Textzeugen in Collections des internen Repositoriums PHAIDRA der Universität Wien gesichert, begrenzt zugänglich: 
+- Textzeugen. Collection für alle Textzeugen der Gedichte von Friederike Mayröcker. Eingeschränkter Zugang unter https://phaidra-local.univie.ac.at/o:45688
+- XML-Dokumente. Collection für alle XML-Dokumente zu den Textzeugen der Gedichte von Friederike Mayröcker. Eingeschränkter Zugang unter https://phaidra-local.univie.ac.at/view/o:45808
+- Sequenzen. Collection für alle CSV-Dokumente zu den Sequenzen der Textzeugen der folgenden Gedichte von Friederike Mayröcker. Eingeschränkter Zugang unter https://phaidra-local.univie.ac.at/view/o:45816
